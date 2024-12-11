@@ -1,0 +1,50 @@
+14:39:15 **** Auto Build of project 1306_bsp ****
+make -k all 
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/axidma_v9_9/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/axidma_v9_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/bram_v4_3/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/bram_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/cpu_v2_9/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/cpu_v2_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/intc_v3_9/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/intc_v3_9/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/llfifo_v5_3/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/llfifo_v5_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/spi_v4_4/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/spi_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/standalone_v7_0/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/uartlite_v3_2/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/uartlite_v3_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/axidma_v9_9/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/axidma_v9_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling axidma"
+mb-ar: creating ../../../lib/libxil.a
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/bram_v4_3/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/bram_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling bram"
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/cpu_v2_9/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/cpu_v2_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling cpu"
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/intc_v3_9/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/intc_v3_9/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling intc"
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/llfifo_v5_3/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/llfifo_v5_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling llfifo"
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/spi_v4_4/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/spi_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling spi"
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/standalone_v7_0/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling standalone";
+microblaze_sleep.c:77:9: note: #pragma message: For the sleep routines, assembly instructions are used
+ #pragma message ("For the sleep routines, assembly instructions are used")
+         ^~~~~~~
+"Running Make libs in u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/uartlite_v3_2/src"
+make -C u_nhc_amba_core_cpu_subsystem_u_cpu_subsystem_i_microblaze_1/libsrc/uartlite_v3_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS=  -O2 -c -mcpu=v11.0 -mhard-float -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-float-convert -mxl-float-sqrt -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling uartlite"
+'Finished building libraries'
+
+14:39:20 Build Finished (took 5s.27ms)
+
